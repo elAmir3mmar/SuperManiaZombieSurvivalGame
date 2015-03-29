@@ -1,0 +1,262 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\ProBuilderCore.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\ProBuilderCore.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\FPSControlLib.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\FPSControlLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\RAIN.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\RAIN.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\RAINMetaform.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\RAINMetaform.dll into Unity Child Domain
+- Completed reload, in  0.207 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\System.dll (this message is harmless)
+Shader 'Outlined/Silhouetted Bumped Diffuse': fallback shader 'Outlined/Silhouetted Diffuse' not found
+Shader 'Nature/Terrain/Specular': fallback shader 'Nature/Terrain/Diffuse' not found
+The tree ThinTree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 98)
+
+The tree ThinTree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 98)
+
+Platform assembly: C:\Users\Brian\Documents\GitHub\SuperManiaZombieSurvivalGame\SuperManiaZombieSurvivalGame_Data\Managed\System.Xml.dll (this message is harmless)
+Loaded control map: PC : Default PC
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Could not find Crosshair with name: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Could not find Crosshair with name: M16Crosshair
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Could not find Crosshair with name: M16Crosshair
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Could not find Crosshair with name: M16Crosshair
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Could not find Crosshair with name: M16Crosshair
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Reading all from: Weapons
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Namespace Weapons does not exist.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Adding 'Test Gun' to the inventory.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Adding 'M16' to the inventory.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Adding 'Beretta' to the inventory.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Adding 'Pistol' to the inventory.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Maximum weapon inventory of 4 exceeded. 'Assault Rifle' will not be added to the inventory.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at FPSControl.FPSControlPlayerSpawn.ReSpawnAt (FPSControl.FPSControlPlayer player, Int32 ID) [0x00000] in <filename unknown>:0 
+  at FPSControl.FPSControlPlayer.RespawnAt (Int32 ID) [0x00000] in <filename unknown>:0 
+  at FPSControl.FPSControlPlayer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Courtesy Note: Shuriken particles must be set to use Local/Global Space in the asset instead of in WeaponControl.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: a88 -> priority: 1 
+  Thread -> id: 1fa8 -> priority: 1 
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Terrain: No Damageable found. Reverting to SendMessage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
